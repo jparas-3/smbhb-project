@@ -1,2 +1,2 @@
 .ipynb_checkpoints/
-./lensing_signatures/kde-data.hdf5
+*.hdf5
