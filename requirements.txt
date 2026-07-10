@@ -1,2 +1,0 @@
-h5py==3.16.0
-illustris_python @ git+ssh://git@github.com/illustristng/illustris_python.git@310a5c0e308b8bfd9a71390a2ea4f2ba0b7b7add

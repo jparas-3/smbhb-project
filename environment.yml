@@ -259,4 +259,3 @@ dependencies:
       - h5py==3.16.0
       - git+ssh://git@github.com/illustristng/illustris_python.git
       - numpy==2.5.0
-prefix: /home/jp3287/.conda/envs/smbhb_project
