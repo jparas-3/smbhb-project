@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 *.hdf5
 .virtual_documents/
+.idea/
